@@ -1,0 +1,17 @@
+commit 7cb6845719bee37335e87c1309bfdf0da6323193
+Author: RyanAquinoSantos <ryan.aquino.santos@gmail.com>
+Date:   Mon Jun 22 20:30:25 2026 -0300
+
+    alterando número máximo para 75
+
+commit 4d2eb5329e47d222aeed10fe8078791986678b19
+Author: RyanAquinoSantos <ryan.aquino.santos@gmail.com>
+Date:   Mon Jun 22 17:02:08 2026 -0300
+
+    alterando limite para 100
+
+commit 760a74a9857e2289ba3ec5fa7775334b5d562e5c
+Author: RyanAquinoSantos <ryan.aquino.santos@gmail.com>
+Date:   Thu Jun 18 01:32:16 2026 -0300
+
+    projeto_inicial_caldeira
